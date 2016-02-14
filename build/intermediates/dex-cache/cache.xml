@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-7.8.0_3a6a6211b387cfd25feec3b450976ee0033a651d.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.android.support-design-23.0.1_8f496af0f433a3bb914529f5db41c2d3044b8582.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-7.8.0_da0fa164ae55b8e7b5d3fdcc7f9f3472af7fefb5.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-7.8.0_1e0633d9cee1679d64d009b730f56e825f61c928.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-7.8.0_c19580bdf1591a289752363a5421953978650b10.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-7.8.0_d668234d28857ea1d3b9cec6bd12259d85351d07.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_231a8663acca4532f8331de9362cb901c36cee2d.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-7.8.0_e6837f9f460248961dbda508ae58c588c5374a09.jar" />
+    </item>
+    <item
+        jar="/home/prasang/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_40188b425b719ebd38b3259970d2536703a768df.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-7.8.0_447bd6ec02855cb0a994388afc5debd140da79aa.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-7.8.0_19c25dadd3e3acc2dc9f44bbd1e7b2f50f9682db.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-7.8.0_0d0b6a5d7f58beeef622cb266dda22131356720b.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_097a1fa34993ac998247a53c925c3a16c3fc9af8.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-7.8.0_44c132acb62e83c7fe5f8532200b13d75b8cc1f6.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-7.8.0_70e456ed74d28b9e3ef3fb5203029d757b17475e.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-7.8.0_6c1ba6478b8457ba70d59cf801bcfafae376f6d4.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-7.8.0_0e8d1e2f5b03e3d88e4169ba9677ee578872e46a.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-7.8.0_311953340c1da4df405d7c6de2e3ee181b2acc03.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-7.8.0_015269fca7f47b209f947594fbf217aff822f901.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-7.8.0_be5d88fe93cdf602edc814fed4f33ad4f2dd276e.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-7.8.0_0a9e2393ace940e84d71bd31ae083f685e4ca96b.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-7.8.0_b5c4ecaac31f703beb120f9a6f4efb8a0d4df607.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-22.2.0_b19ecbaad1402b38a1d0e1f10ac5e39a56f80f93.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-7.8.0_69cc0fd2926361171ce297a82cd4ca7a0ab5a968.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appstate-7.8.0_3bdee1411e022721e67f3ec645d440fda9f0c617.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-7.8.0_09a1103b322e792226b4b6d1ea6c485e8bc8338c.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_a34166bab6acbcf680ddceb32082bcceab717eda.jar" />
+    </item>
+    <item
+        jar="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/prasang/AndroidStudioProjects/Aurum_Health_App/AurumHealthApp/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_ea8923b6ba6e07201a75a6d61fb8ffe35dfdde62.jar" />
+    </item>
+
+</items>
